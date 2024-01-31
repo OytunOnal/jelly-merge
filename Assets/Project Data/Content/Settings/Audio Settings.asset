@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8634c5cf5896bb84ca6474552cf85648, type: 3}
+  m_Name: Audio Settings
+  m_EditorClassIdentifier: 
+  music:
+    gameMusic: {fileID: 8300000, guid: c0efadbcfd9521b45a49544143abee99, type: 3}
+  sounds:
+    buttonSound: {fileID: 8300000, guid: 43778771ca132fe44baa768ab4be8bc2, type: 3}
+    swipeClip: {fileID: 8300000, guid: be7201585828e094e840deb23741f605, type: 3}
+    squishClip: {fileID: 8300000, guid: 0f1e3940f11693a48aa7f4633e494383, type: 3}
+    gameWinClip: {fileID: 8300000, guid: 3afcbd6f1ad131844b4ab6a6b724e740, type: 3}
+  vibrations:
+    shortVibration: 30
+    longVibration: 50
