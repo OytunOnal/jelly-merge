@@ -21,8 +21,6 @@ namespace Watermelon
 
         public override void PlayShowAnimation()
         {
-            SettingsPanel.ShowPanel(false);
-
             promptToStartGroup.alpha = 0;
 
             fadeTween.KillActive();
@@ -41,7 +39,6 @@ namespace Watermelon
             fadeTween.KillActive();
             fadeTween = promptToStartGroup.DOFade(0f, 0.3f).SetEasing(Ease.Type.SineInOut);
 
-            SettingsPanel.HidePanel(false);
 
             Tween.DelayedCall(0.5f, delegate
             {
