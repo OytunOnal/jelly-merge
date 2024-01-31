@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CustomEditor(typeof(Tween))]
     public class TweenEditor : Editor

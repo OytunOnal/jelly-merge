@@ -3,7 +3,7 @@
 
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [System.Serializable]
     public class ScreenSettings

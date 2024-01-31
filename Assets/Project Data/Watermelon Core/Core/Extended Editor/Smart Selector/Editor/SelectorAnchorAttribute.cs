@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [AttributeUsage(AttributeTargets.Class, AllowMultiple = false)]
     public class SelectorAnchorAttribute : Attribute

@@ -5,7 +5,7 @@ using System.Collections;
 using System;
 using System.Collections.Generic;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyDrawer(typeof(DropdownAttribute))]
     public class DropdownPropertyDrawer : PropertyDrawer

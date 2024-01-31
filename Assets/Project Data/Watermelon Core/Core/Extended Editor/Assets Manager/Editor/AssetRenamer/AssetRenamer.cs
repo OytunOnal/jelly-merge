@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class RenameEditorWindow : EditorWindow
     {

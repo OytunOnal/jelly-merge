@@ -2,7 +2,7 @@
 using UnityEditor;
 using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class DateProperty : UnityEditor.PropertyDrawer
     {

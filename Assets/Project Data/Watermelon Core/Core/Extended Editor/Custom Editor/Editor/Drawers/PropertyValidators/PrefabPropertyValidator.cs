@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyValidator(typeof(PrefabAttribute))]
     public class PrefabPropertyValidator : PropertyValidator

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using Watermelon;
+
 
 #if UNITY_2017_4 || UNITY_2018_2_OR_NEWER
 using UnityEngine.U2D;
@@ -13,7 +13,7 @@ using Sprites = UnityEngine.Sprites;
 using UnityEditor;
 #endif
 
-namespace Watermelon
+namespace JellyMerge
 {
 #if UNITY_EDITOR
 	// Custom Editor to order the variables in the Inspector similar to Image component

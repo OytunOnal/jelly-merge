@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using UnityEngine;
-using AudioType = Watermelon.AudioController.AudioType;
+using AudioType = JellyMerge.AudioController.AudioType;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [System.Serializable]
     public class AudioCase

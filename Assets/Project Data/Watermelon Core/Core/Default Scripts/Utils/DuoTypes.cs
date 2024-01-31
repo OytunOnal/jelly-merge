@@ -2,7 +2,7 @@
 using Unity.Mathematics;
 using System.Runtime.CompilerServices;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [System.Serializable]
     public class DuoInt

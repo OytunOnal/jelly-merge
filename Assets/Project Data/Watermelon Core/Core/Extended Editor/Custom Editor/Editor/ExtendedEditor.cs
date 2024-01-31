@@ -5,7 +5,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CanEditMultipleObjects]
     [CustomEditor(typeof(UnityEngine.Object), true)]

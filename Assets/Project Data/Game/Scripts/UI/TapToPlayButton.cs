@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace Watermelon.JellyMerge
+namespace JellyMerge
 {
     public class TapToPlayButton : MonoBehaviour, IPointerDownHandler
     {

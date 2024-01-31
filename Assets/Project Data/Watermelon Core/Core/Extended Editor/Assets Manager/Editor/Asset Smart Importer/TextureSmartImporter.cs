@@ -4,7 +4,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public partial class TextureSmartImporter : EditorWindow
     {

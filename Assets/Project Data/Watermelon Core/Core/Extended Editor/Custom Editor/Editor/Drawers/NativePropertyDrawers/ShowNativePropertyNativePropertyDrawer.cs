@@ -2,7 +2,7 @@
 using System.Reflection;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [NativePropertyDrawer(typeof(ShowNativePropertyAttribute))]
     public class ShowNativePropertyNativePropertyDrawer : NativePropertyDrawer

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon {
+namespace JellyMerge {
     [CreateAssetMenu(fileName = "Color Debug Settings", menuName = "Games/JelljMerge/Settings/Color Debug Settings")]
     [HelpURL("https://docs.google.com/document/d/1K2vJIKtMALoe5-TmcHHlAb4aR2HRFc7msFRkgItrH90/edit?usp=sharing")]
     public partial class ColorDebugSettings : ScriptableObject

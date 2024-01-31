@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon.JellyMerge
+namespace JellyMerge
 {
     public class Swipe : MonoBehaviour
     {

@@ -1,9 +1,8 @@
 ﻿using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-using Watermelon.JellyMerge;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class UIGame : UIPage
     {

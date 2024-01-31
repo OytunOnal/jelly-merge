@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CustomPropertyDrawer(typeof(DisableFieldAttribute))]
     public class DisableFieldDrawer : UnityEditor.PropertyDrawer

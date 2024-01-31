@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyMeta(typeof(OnValueChangedAttribute))]
     public class OnValueChangedPropertyMeta : PropertyMeta

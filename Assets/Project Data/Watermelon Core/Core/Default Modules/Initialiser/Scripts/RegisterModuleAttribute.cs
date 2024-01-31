@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [AttributeUsage(AttributeTargets.Class, AllowMultiple = true)]
     public class RegisterModuleAttribute : Attribute

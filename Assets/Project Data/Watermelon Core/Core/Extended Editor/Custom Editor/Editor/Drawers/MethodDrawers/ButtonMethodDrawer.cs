@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [MethodDrawer(typeof(ButtonAttribute))]
     public class ButtonMethodDrawer : MethodDrawer

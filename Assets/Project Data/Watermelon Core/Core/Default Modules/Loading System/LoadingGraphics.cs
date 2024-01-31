@@ -2,7 +2,7 @@
 using TMPro;
 using UnityEngine.UI;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class LoadingGraphics : MonoBehaviour
     {

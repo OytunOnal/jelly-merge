@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public abstract class PropertyDrawer
     {

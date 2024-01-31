@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEditor;
 using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyDrawer(typeof(ProgressBarAttribute))]
     public class ProgressBarPropertyDrawer : PropertyDrawer

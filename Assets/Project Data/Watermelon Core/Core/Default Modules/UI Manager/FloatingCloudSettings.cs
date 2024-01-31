@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class FloatingCloudSettings
     {

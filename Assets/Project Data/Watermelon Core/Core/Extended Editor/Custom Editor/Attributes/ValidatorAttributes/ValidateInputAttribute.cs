@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
     public class ValidateInputAttribute : ValidatorAttribute

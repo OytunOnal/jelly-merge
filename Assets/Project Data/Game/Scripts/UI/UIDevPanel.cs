@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using Watermelon;
 
-namespace Watermelon.JellyMerge
+
+namespace JellyMerge
 {
     public class UIDevPanel : MonoBehaviour
     {

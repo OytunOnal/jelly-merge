@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon.JellyMerge
+namespace JellyMerge
 {
     [CreateAssetMenu(fileName = "ColorsPreset", menuName = "Games/JelljMerge/ColorsSystem/ColorsPreset")]
     public class ColorsPreset : ScriptableObject

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RequireComponent(typeof(Button), typeof(BoxCollider))]
     public class WorldSpaceButton : MonoBehaviour

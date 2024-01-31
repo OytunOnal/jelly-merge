@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [SetupTab("Init Settings", priority = 1, texture = "icon_puzzle")]
     [CreateAssetMenu(fileName = "Project Init Settings", menuName = "Games/JelljMerge/Settings/Project Init Settings")]

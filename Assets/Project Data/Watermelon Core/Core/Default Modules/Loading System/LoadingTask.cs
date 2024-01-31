@@ -1,4 +1,4 @@
-﻿namespace Watermelon
+﻿namespace JellyMerge
 {
     public abstract class LoadingTask
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CreateAssetMenu(fileName = "Easing Settings", menuName = "Games/JelljMerge/Settings/Tween Easing Settings")]
     public class EasingSettings : ScriptableObject

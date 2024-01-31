@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public abstract class DoTween<C, T> : MonoBehaviour where C : Component
     {

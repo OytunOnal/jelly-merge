@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyDrawer(typeof(SliderAttribute))]
     public class SliderPropertyDrawer : PropertyDrawer

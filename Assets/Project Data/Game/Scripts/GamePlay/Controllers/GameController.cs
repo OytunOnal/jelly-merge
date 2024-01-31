@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
-using Watermelon;
 
-namespace Watermelon.JellyMerge
+
+namespace JellyMerge
 {
     public class GameController : MonoBehaviour
     {

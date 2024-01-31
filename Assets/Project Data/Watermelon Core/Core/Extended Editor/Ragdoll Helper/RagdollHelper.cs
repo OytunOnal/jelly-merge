@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
 
 #pragma warning disable 649

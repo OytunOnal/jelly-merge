@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     /// <summary>
     /// Don't be shy and edit this file if you need to add new presets or change default settings.

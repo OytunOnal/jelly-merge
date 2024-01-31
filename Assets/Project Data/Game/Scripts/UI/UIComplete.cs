@@ -4,9 +4,9 @@ using System.Collections;
 using System;
 using System.Collections.Generic;
 using TMPro;
-using Watermelon.JellyMerge;
+using JellyMerge;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class UIComplete : UIPage
     {

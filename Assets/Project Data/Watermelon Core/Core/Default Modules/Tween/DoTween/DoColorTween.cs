@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RequireComponent(typeof(Graphic))]
     public class DoColorTween : DoTween<Graphic, Color>

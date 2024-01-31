@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [AttributeUsage(AttributeTargets.Field, AllowMultiple = false)]
     public class InfoAttribute : HelpBoxAttribute

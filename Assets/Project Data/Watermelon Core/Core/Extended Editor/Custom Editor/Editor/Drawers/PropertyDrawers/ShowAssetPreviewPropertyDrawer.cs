@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyDrawer(typeof(ShowAssetPreviewAttribute))]
     public class ShowAssetPreviewPropertyDrawer : PropertyDrawer

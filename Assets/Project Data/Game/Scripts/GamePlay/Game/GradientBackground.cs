@@ -3,7 +3,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Watermelon.JellyMerge
+namespace JellyMerge
 {
     public class GradientBackground : MonoBehaviour
     {

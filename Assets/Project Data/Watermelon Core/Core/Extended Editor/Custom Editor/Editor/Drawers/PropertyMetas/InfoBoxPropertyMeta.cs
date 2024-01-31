@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyMeta(typeof(InfoBoxAttribute))]
     public class InfoBoxPropertyMeta : PropertyMeta

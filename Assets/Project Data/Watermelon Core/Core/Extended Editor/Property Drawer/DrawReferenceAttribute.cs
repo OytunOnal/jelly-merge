@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [AttributeUsage(AttributeTargets.Field, AllowMultiple = false)]
     public sealed class DrawReferenceAttribute : PropertyAttribute

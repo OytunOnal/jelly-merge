@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Collections;
 using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [InitializeOnLoad]
     public static class EditorStylesExtended

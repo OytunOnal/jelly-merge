@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon.JellyMerge
+namespace JellyMerge
 {
     [CreateAssetMenu(fileName = "Level", menuName = "Games/JelljMerge/LevelSystem/Level")]
     [System.Serializable]

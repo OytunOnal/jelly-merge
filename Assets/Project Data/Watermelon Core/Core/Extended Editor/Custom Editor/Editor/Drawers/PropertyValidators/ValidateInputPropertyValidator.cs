@@ -3,7 +3,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyValidator(typeof(ValidateInputAttribute))]
     public class ValidateInputPropertyValidator : PropertyValidator

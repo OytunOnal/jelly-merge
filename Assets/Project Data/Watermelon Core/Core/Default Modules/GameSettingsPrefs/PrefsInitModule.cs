@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RegisterModule("Core/Prefs Settings")]
     public class PrefsInitModule : InitModule

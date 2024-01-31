@@ -4,9 +4,9 @@ using UnityEngine;
 using UnityEditor;
 using System;
 using System.IO;
-using static Watermelon.List.CustomField;
+using static JellyMerge.List.CustomField;
 
-namespace Watermelon.List
+namespace JellyMerge.List
 {
     public class CustomList
     {

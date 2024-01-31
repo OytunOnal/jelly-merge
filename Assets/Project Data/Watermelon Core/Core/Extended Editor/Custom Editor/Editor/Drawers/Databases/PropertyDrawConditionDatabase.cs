@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public static class PropertyDrawConditionDatabase
     {

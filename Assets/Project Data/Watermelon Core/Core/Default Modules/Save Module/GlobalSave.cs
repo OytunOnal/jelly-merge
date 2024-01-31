@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [Serializable]
     public class GlobalSave

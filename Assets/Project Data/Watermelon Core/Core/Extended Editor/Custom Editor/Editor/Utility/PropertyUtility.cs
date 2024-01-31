@@ -2,7 +2,7 @@ using UnityEditor;
 using System;
 using System.Reflection;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public static class PropertyUtility
     {

@@ -2,9 +2,9 @@
 
 using System.Collections;
 using UnityEngine;
-using Watermelon;
 
-namespace Watermelon.JellyMerge
+
+namespace JellyMerge
 {
     public class CellBehaviour : MonoBehaviour
     {

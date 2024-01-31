@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Watermelon;
 
-namespace Watermelon.JellyMerge
+
+namespace JellyMerge
 {
     [CreateAssetMenu(fileName = "NewLevelsDatabase", menuName = "Games/JelljMerge/LevelSystem/LevelDatabase")]
     public class LevelsDatabase : ScriptableObject

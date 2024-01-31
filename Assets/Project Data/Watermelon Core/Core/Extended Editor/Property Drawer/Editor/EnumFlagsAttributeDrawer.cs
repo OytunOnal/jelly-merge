@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CustomPropertyDrawer(typeof(EnumFlagsAttribute))]
     public class EnumFlagsAttributeDrawer : UnityEditor.PropertyDrawer

@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEditor.SceneManagement;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public abstract class WatermelonEditor : Editor
     {

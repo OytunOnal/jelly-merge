@@ -2,7 +2,7 @@
 using System.Reflection;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [FieldDrawer(typeof(ShowNonSerializedFieldAttribute))]
     public class ShowNonSerializedFieldFieldDrawer : FieldDrawer

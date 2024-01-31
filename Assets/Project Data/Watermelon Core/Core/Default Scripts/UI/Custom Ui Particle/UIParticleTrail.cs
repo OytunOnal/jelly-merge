@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
-    using Watermelon.UI.Particle;
+    using UI.Particle;
 
     public class UIParticleTrail : MonoBehaviour
     {

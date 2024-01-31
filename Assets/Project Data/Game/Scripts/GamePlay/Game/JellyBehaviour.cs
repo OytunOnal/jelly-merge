@@ -3,9 +3,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Watermelon;
 
-namespace Watermelon.JellyMerge
+
+namespace JellyMerge
 {
     public class JellyBehaviour : MonoBehaviour
     {

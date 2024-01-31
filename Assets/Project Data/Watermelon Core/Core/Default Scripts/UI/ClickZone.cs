@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class ClickZone : MonoBehaviour, IPointerClickHandler
     {

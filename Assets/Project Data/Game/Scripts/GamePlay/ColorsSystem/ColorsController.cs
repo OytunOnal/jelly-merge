@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using Watermelon;
 
-namespace Watermelon.JellyMerge
+
+namespace JellyMerge
 {
     /// <summary>
     /// Controlls colors of all materials used at game. Use static SetRandomPreset or inst SetPreset() to change color theme.

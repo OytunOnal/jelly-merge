@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CustomPropertyDrawer(typeof(DrawReferenceAttribute), true)]
     public class DrawReferenceDrawer : UnityEditor.PropertyDrawer

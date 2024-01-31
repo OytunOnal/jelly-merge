@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RequireComponent(typeof(Canvas)), RequireComponent(typeof(GraphicRaycaster))]
     public abstract class UIPage : MonoBehaviour

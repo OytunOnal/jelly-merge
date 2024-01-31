@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon.UI.Particle
+namespace JellyMerge.UI.Particle
 {
     [CreateAssetMenu(menuName = "Content/Data/Custom UI Particle Settings", fileName = "Games/JelljMerge/Custom UI Particle Settings")]
     public class UIParticleSettings : ScriptableObject

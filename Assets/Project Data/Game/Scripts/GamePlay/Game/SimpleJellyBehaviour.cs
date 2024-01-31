@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace Watermelon.JellyMerge
+namespace JellyMerge
 {
     public class SimpleJellyBehaviour : MonoBehaviour
     {

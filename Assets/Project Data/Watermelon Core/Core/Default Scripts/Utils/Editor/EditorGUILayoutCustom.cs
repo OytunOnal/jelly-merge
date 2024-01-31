@@ -5,7 +5,7 @@ using UnityEditor;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public static class EditorGUILayoutCustom
     {

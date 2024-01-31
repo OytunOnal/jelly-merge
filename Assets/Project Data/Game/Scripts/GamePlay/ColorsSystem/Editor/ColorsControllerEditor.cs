@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
-using Watermelon;
 
-namespace Watermelon.JellyMerge
+
+namespace JellyMerge
 {
     [CustomEditor(typeof(ColorsController))]
     public class ColorsControllerEditor : Editor

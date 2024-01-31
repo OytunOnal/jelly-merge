@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
     public class ComponentAttribute : ValidatorAttribute

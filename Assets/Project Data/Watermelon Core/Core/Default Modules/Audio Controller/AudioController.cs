@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RequireSetting("Vibration", PrefsSettings.FieldType.Bool)]
     [RequireSetting("Volume", PrefsSettings.FieldType.Float)]

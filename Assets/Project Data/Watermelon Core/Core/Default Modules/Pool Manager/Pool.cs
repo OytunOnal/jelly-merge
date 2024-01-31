@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Watermelon
+namespace JellyMerge
 {
     /// <summary>
     /// Basic pool class. Contains pool settings and references to pooled objects.

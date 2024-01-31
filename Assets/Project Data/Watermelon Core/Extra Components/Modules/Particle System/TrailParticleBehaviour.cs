@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public sealed class TrailParticleBehaviour : ParticleBehaviour
     {

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon.List
+namespace JellyMerge.List
 {
     [CreateAssetMenu(fileName = "StylesDatabase", menuName = "Games/JelljMerge/Create styles data", order = 2)]
     public class ListStylesDatabase : ScriptableObject

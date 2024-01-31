@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class TweenCaseCollection
     {

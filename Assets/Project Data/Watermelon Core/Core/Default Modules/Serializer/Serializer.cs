@@ -11,7 +11,7 @@ using Newtonsoft.Json;
 #endif
 
 // Serializer module v 1.0.1
-namespace Watermelon
+namespace JellyMerge
 {
     /// <summary>
     /// Provides different types of serrialization.

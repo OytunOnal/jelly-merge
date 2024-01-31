@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace Watermelon.Shader
+namespace JellyMerge.Shader
 {
     public class ToonUnlitGUI : ShaderGUI
     {

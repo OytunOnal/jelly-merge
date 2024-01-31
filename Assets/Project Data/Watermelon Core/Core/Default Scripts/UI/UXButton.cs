@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public class UXButton : BaseButton
     {

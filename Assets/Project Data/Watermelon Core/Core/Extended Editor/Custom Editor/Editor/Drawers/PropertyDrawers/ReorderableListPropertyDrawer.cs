@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEditorInternal;
 using System.Collections.Generic;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyDrawer(typeof(ReorderableListAttribute))]
     public class ReorderableListPropertyDrawer : PropertyDrawer

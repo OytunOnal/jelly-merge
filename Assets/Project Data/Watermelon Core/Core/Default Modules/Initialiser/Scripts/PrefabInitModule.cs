@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RegisterModule("Helpers/Custom Prefab Initialization")]
     public class PrefabInitModule : InitModule

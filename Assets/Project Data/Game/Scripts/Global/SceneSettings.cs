@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Watermelon.JellyMerge
+namespace JellyMerge
 {
     public enum Scenes
     {

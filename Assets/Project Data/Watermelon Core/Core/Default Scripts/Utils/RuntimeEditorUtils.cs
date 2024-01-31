@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace Watermelon
+namespace JellyMerge
 {
     public static class RuntimeEditorUtils
     {

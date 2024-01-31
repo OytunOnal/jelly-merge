@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [SetupTab("Audio", texture = "icon_audio")]
     [CreateAssetMenu(fileName = "Audio Settings", menuName = "Games/JelljMerge/Settings/Audio Settings")]

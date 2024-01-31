@@ -2,7 +2,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyDrawCondition(typeof(HideIfAttribute))]
     public class HideIfPropertyDrawCondition : PropertyDrawCondition

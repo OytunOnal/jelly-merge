@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyValidator(typeof(MinValueAttribute))]
     public class MinValuePropertyValidator : PropertyValidator

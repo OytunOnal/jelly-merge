@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Watermelon.UI.Particle
+namespace JellyMerge.UI.Particle
 {
     public class UIParticle : MonoBehaviour
     {

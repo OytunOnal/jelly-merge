@@ -3,7 +3,7 @@
 using System.IO;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public static class IOUtils
     {

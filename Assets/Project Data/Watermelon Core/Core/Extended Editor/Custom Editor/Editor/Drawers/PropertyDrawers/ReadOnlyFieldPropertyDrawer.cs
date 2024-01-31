@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [PropertyDrawer(typeof(ReadOnlyFieldAttribute))]
     public class ReadOnlyFieldPropertyDrawer : PropertyDrawer

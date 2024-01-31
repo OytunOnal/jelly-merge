@@ -430,5 +430,5 @@ Shader "WMelon/Universal"
         }
     }
 
-    CustomEditor "Watermelon.Shader.UniversalGUI"
+    CustomEditor "JellyMerge.Shader.UniversalGUI"
 }

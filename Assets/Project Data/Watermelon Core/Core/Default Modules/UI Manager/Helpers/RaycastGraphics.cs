@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RequireComponent(typeof(CanvasRenderer))]
     public class RaycastGraphics : Graphic

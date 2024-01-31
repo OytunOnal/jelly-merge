@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public abstract class ValidatorAttribute : ExtendedEditorAttribute
     {

@@ -4,7 +4,7 @@ using System;
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace Watermelon
+namespace JellyMerge
 {
     /// <summary>
     /// Class that manages all pool operations.

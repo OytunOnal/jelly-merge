@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEditor;
 using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public static class EditorDrawUtility
     {

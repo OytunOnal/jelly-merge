@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     public abstract class InitModule : ScriptableObject
     {

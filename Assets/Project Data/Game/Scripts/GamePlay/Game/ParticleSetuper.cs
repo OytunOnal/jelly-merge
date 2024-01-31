@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon.JellyMerge
+namespace JellyMerge
 {
     public class ParticleSetuper : MonoBehaviour
     {

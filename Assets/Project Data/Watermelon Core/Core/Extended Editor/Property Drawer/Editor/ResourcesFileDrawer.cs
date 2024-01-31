@@ -2,7 +2,7 @@
 using UnityEditor;
 using System.Linq;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CustomPropertyDrawer(typeof(ResourcesFileAttribute))]
     public class ResourcesFileDrawer : UnityEditor.PropertyDrawer

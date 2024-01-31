@@ -6,7 +6,7 @@ using System;
 //Bugs
 //Wrong unscaled time if tween called from start
 
-namespace Watermelon
+namespace JellyMerge
 {
     [HelpURL("https://docs.google.com/document/d/1t5BJKOd3aTBAT9mrpi8ujRo-Cz3wWVF2Cc2PSswACsQ")]
     public class Tween : MonoBehaviour

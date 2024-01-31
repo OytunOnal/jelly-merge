@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RequireComponent(typeof(RectTransform))]
     public class DoAnchoredPositionTween : DoTween<RectTransform, Vector3>

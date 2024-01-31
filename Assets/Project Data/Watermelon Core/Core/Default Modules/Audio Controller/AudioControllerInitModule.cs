@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [RegisterModule("Core/Audio Controller")]
     public class AudioControllerInitModule : InitModule

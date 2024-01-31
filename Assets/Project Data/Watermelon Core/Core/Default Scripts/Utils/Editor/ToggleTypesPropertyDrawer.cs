@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CustomPropertyDrawer(typeof(ToggleType<>), true)]
     public class ToggleTypesPropertyDrawer : UnityEditor.PropertyDrawer

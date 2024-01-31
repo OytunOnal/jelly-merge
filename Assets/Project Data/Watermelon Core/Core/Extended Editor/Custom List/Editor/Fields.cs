@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace Watermelon.List
+namespace JellyMerge.List
 {
     public abstract class AbstractField
     {

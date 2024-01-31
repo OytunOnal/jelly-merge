@@ -2,7 +2,7 @@
 using UnityEngine;
 using System;
 
-namespace Watermelon
+namespace JellyMerge
 {
     [CustomPropertyDrawer(typeof(EnumArrayAttribute))]
     public class EnumArrayDrawer : UnityEditor.PropertyDrawer
