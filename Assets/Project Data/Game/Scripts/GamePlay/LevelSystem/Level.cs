@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Watermelon.JellyMerge
 {
-    [CreateAssetMenu(fileName = "Level", menuName = "LevelSystem/Level")]
+    [CreateAssetMenu(fileName = "Level", menuName = "Games/JelljMerge/LevelSystem/Level")]
     [System.Serializable]
     public class Level : ScriptableObject
     {

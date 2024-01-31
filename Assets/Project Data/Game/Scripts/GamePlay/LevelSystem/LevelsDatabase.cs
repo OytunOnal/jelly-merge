@@ -5,7 +5,7 @@ using Watermelon;
 
 namespace Watermelon.JellyMerge
 {
-    [CreateAssetMenu(fileName = "NewLevelsDatabase", menuName = "LevelSystem/LevelDatabase")]
+    [CreateAssetMenu(fileName = "NewLevelsDatabase", menuName = "Games/JelljMerge/LevelSystem/LevelDatabase")]
     public class LevelsDatabase : ScriptableObject
     {
         private static LevelsDatabase instance;

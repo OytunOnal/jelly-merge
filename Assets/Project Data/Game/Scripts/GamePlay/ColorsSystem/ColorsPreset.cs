@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Watermelon.JellyMerge
 {
-    [CreateAssetMenu(fileName = "ColorsPreset", menuName = "ColorsSystem/ColorsPreset")]
+    [CreateAssetMenu(fileName = "ColorsPreset", menuName = "Games/JelljMerge/ColorsSystem/ColorsPreset")]
     public class ColorsPreset : ScriptableObject
     {
         public Color borders = Color.white;

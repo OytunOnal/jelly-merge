@@ -3,7 +3,7 @@
 namespace Watermelon
 {
     [SetupTab("Audio", texture = "icon_audio")]
-    [CreateAssetMenu(fileName = "Audio Settings", menuName = "Settings/Audio Settings")]
+    [CreateAssetMenu(fileName = "Audio Settings", menuName = "Games/JelljMerge/Settings/Audio Settings")]
     public class AudioSettings : ScriptableObject
     {
         [SerializeField] Music music;

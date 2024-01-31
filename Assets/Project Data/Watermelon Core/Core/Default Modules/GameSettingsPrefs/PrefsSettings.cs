@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace Watermelon
 {
-    [CreateAssetMenu(fileName = "Prefs Settings", menuName = "Settings/Prefs Settings")]
+    [CreateAssetMenu(fileName = "Prefs Settings", menuName = "Games/JelljMerge/Settings/Prefs Settings")]
     public partial class PrefsSettings : ScriptableObject
     {
         private static PrefsSettings prefsSettings;
