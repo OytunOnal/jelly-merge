@@ -62,8 +62,6 @@ MonoBehaviour:
   initModules:
   - {fileID: -5553112728203030072}
   - {fileID: -4730110931593964753}
-  - {fileID: 8259582656901600899}
-  - {fileID: 9081707007057817609}
   - {fileID: 3511471252452790789}
 --- !u!114 &3511471252452790789
 MonoBehaviour:
@@ -80,37 +78,3 @@ MonoBehaviour:
   moduleName: Audio Controller
   audioSettings: {fileID: 11400000, guid: 5fd9b66dc4e20284484fe219919e9139, type: 2}
   playRandomMusic: 1
---- !u!114 &8259582656901600899
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f517638b73f01c34780e6f4e044107a3, type: 3}
-  m_Name: Watermelon.AdsManagerInitModule
-  m_EditorClassIdentifier: 
-  moduleName: Ads Manager
-  settings: {fileID: 11400000, guid: 8337d1dd089f44840a6f672ad72854d4, type: 2}
-  dummyCanvasPrefab: {fileID: 985655532585203946, guid: a7af08efc5cd16c4db955b7f65f00dfc,
-    type: 3}
-  gdprPrefab: {fileID: 2665059414450368139, guid: 25b05165b3e164d41a5e0f7d29a77b0a,
-    type: 3}
-  loadAdOnStart: 1
---- !u!114 &9081707007057817609
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a8e4e34b37285094ea49b9c1301c78e6, type: 3}
-  m_Name: Watermelon.IAPManagerInitModule
-  m_EditorClassIdentifier: 
-  moduleName: IAP Manager
-  settings: {fileID: 11400000, guid: 716ac896391396e439ead3b15d524ee9, type: 2}
-  canvas: {fileID: 4428939727153499309, guid: 9ccb3bd803809cc449b332921a7edf6f, type: 3}
