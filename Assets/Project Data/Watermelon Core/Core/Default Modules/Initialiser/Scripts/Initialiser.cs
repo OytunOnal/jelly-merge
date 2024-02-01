@@ -31,7 +31,6 @@ namespace JellyMerge
                 SystemCanvas = systemCanvas;
                 InitialiserGameObject = gameObject;
 
-                DontDestroyOnLoad(gameObject);
 
                 initSettings.Init(this);
             }

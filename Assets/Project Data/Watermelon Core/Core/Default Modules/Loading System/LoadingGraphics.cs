@@ -11,7 +11,6 @@ namespace JellyMerge
 
         private void Awake()
         {
-            DontDestroyOnLoad(gameObject);
 
             OnLoading(0.0f, "Loading..");
         }

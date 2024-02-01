@@ -96,8 +96,6 @@ namespace JellyMerge
             GameObject listenerObject = new GameObject("[AUDIO LISTENER]");
             listenerObject.transform.position = Vector3.zero;
 
-            // Mark as non-destroyable
-            GameObject.DontDestroyOnLoad(listenerObject);
 
             // Add listener component to created object
             audioListener = listenerObject.AddComponent<AudioListener>();
